@@ -2,6 +2,8 @@
 
 A simple Athan app that displays Islamic prayer times and the current Hijri date in a small desktop window. It's built using the Gio UI framework for Go.
 
+![Screenshot](./images/screenshot.png)
+
 ## Installation
 
 ### Prerequisites
